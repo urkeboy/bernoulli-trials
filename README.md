@@ -1,5 +1,5 @@
 # bernoulli-trials
-[Probability and Statistics] Binomial distribution simulation in Python using statistically independent Bernoulli trials in Python.
+[Probability and Statistics] Binomial distribution simulation using statistically independent Bernoulli trials in Python.
 
 Homework/project in **Probability and Statistics (13E082VISR)** at the University of Belgrade, School of Electrical Engineering.
 
